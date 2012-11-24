@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="thesis-question.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path3331"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3191"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.71"
+     inkscape:cx="360.47115"
+     inkscape:cy="813.16523"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="22" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2504">
+      <path
+         transform="translate(331.42854,-118.28569)"
+         d="M 145.71428,293.79074 A 22.857143,21.428572 0 1 1 99.999996,293.79074 A 22.857143,21.428572 0 1 1 145.71428,293.79074 z"
+         sodipodi:ry="21.428572"
+         sodipodi:rx="22.857143"
+         sodipodi:cy="293.79074"
+         sodipodi:cx="122.85714"
+         id="path3159"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:2.04399991;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <rect
+         y="118.36221"
+         x="130"
+         height="114.28571"
+         width="217.14284"
+         id="rect2383"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.04399991;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         transform="translate(115.71428,-272.57139)"
+         d="M 145.71428,293.79074 A 22.857143,21.428572 0 1 1 99.999996,293.79074 A 22.857143,21.428572 0 1 1 145.71428,293.79074 z"
+         sodipodi:ry="21.428572"
+         sodipodi:rx="22.857143"
+         sodipodi:cy="293.79074"
+         sodipodi:cx="122.85714"
+         id="path3161"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:2.04399991;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         transform="translate(115.71428,36.00002)"
+         d="M 145.71428,293.79074 A 22.857143,21.428572 0 1 1 99.999996,293.79074 A 22.857143,21.428572 0 1 1 145.71428,293.79074 z"
+         sodipodi:ry="21.428572"
+         sodipodi:rx="22.857143"
+         sodipodi:cy="293.79074"
+         sodipodi:cx="122.85714"
+         id="path3163"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:2.04399991;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connection-end="#path3163"
+         inkscape:connection-start="#rect2383"
+         inkscape:connector-type="polyline"
+         id="path3179"
+         d="M 238.57142,233.66993 L 238.57142,308.36219"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Lend);stroke-opacity:1" />
+      <path
+         inkscape:connection-end="#path3161"
+         inkscape:connection-start="#rect2383"
+         inkscape:connector-type="polyline"
+         id="path3181"
+         d="M 238.57142,117.34021 L 238.57142,42.647923"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Lend);stroke-opacity:1" />
+      <path
+         inkscape:connection-end="#path3159"
+         inkscape:connection-start="#rect2383"
+         inkscape:connector-type="polyline"
+         id="path3183"
+         d="M 348.16484,175.50506 L 431.42854,175.50505"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Lend);stroke-opacity:1" />
+      <flowRoot
+         transform="translate(-104,-122)"
+         style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         id="flowRoot9195"
+         xml:space="preserve"><flowRegion
+           id="flowRegion9197"><rect
+             style="font-size:24px;text-align:center;text-anchor:middle"
+             y="271.36218"
+             x="249"
+             height="86"
+             width="184"
+             id="rect9199" /></flowRegion><flowPara
+           id="flowPara9201">Data Collection and Analysis</flowPara></flowRoot>      <text
+         id="text9259"
+         y="198.36218"
+         x="354"
+         style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="198.36218"
+           x="354"
+           id="tspan9261"
+           sodipodi:role="line">Outcome B</tspan><tspan
+           style="font-size:16px"
+           id="tspan9263"
+           y="220.19958"
+           x="354"
+           sodipodi:role="line">0 ≤ <tspan
+   id="tspan9313"
+   style="font-style:italic">p</tspan><tspan
+   id="tspan9277"
+   style="font-size:8px">B</tspan> &lt; 1</tspan></text>
+      <text
+         id="text9287"
+         y="84.362183"
+         x="233"
+         style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="text-align:end;text-anchor:end"
+           y="84.362183"
+           x="233"
+           id="tspan9289"
+           sodipodi:role="line">Outcome A</tspan><tspan
+           style="font-size:16px;text-align:end;text-anchor:end"
+           id="tspan9291"
+           y="106.19958"
+           x="233"
+           sodipodi:role="line">0 ≤ <tspan
+   id="tspan9311"
+   style="font-style:italic">p</tspan><tspan
+   id="tspan9293"
+   style="font-size:8px;text-align:end;text-anchor:end">A</tspan> &lt; 1</tspan></text>
+      <text
+         id="text9295"
+         y="258.20129"
+         x="232.2002"
+         style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="text-align:end;text-anchor:end"
+           y="258.20129"
+           x="232.2002"
+           id="tspan9297"
+           sodipodi:role="line">Outcome C</tspan><tspan
+           style="font-size:16px;text-align:end;text-anchor:end"
+           id="tspan9299"
+           y="280.0387"
+           x="232.2002"
+           sodipodi:role="line">0 ≤ <tspan
+   id="tspan9315"
+   style="font-style:italic">p</tspan><tspan
+   id="tspan9303"
+   style="font-size:8px">C</tspan> &lt; 1</tspan></text>
+      <path
+         inkscape:connector-type="polyline"
+         id="path9329"
+         d="M 68.4375,175.48855 L 128,175.36218"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Lend);stroke-opacity:1" />
+      <text
+         id="text9852"
+         y="30.362183"
+         x="257"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan9856"
+           style="font-style:normal;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
+           y="30.362183"
+           x="257"
+           sodipodi:role="line">More findings</tspan><tspan
+           id="tspan9860"
+           style="font-style:normal"
+           y="45.362183"
+           x="257"
+           sodipodi:role="line">Possible reasons:</tspan><tspan
+           id="tspan9864"
+           style="font-style:normal"
+           y="60.362183"
+           x="257"
+           sodipodi:role="line"> •better certifier tools</tspan><tspan
+           id="tspan9868"
+           style="font-style:normal"
+           y="75.362183"
+           x="257"
+           sodipodi:role="line"> •more eyes on problem</tspan><tspan
+           id="tspan9870"
+           style="font-style:normal"
+           y="90.362183"
+           x="257"
+           sodipodi:role="line"> •improved criteria</tspan><tspan
+           id="tspan9872"
+           style="font-style:normal"
+           y="105.36218"
+           x="257"
+           sodipodi:role="line"> •new attacks</tspan></text>
+      <text
+         id="text9874"
+         y="262.33582"
+         x="257"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan9876"
+           style="font-style:normal;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
+           y="262.33582"
+           x="257"
+           sodipodi:role="line">Fewer findings</tspan><tspan
+           id="tspan9878"
+           style="font-style:normal"
+           y="277.33582"
+           x="257"
+           sodipodi:role="line">Possible reasons:</tspan><tspan
+           id="tspan9880"
+           style="font-style:normal"
+           y="292.33582"
+           x="257"
+           sodipodi:role="line"> •better developer tools</tspan><tspan
+           id="tspan9893"
+           style="font-style:normal"
+           y="307.33582"
+           x="257"
+           sodipodi:role="line"> •experience </tspan></text>
+      <text
+         id="text9911"
+         y="131.17273"
+         x="459.12012"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan9913"
+           style="font-style:normal;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
+           y="131.17273"
+           x="459.12012"
+           sodipodi:role="line">No change</tspan><tspan
+           id="tspan9915"
+           style="font-style:normal;font-weight:normal;-inkscape-font-specification:Bitstream Vera Sans"
+           y="146.17273"
+           x="459.12012"
+           sodipodi:role="line">Possible reasons:</tspan><tspan
+           id="tspan9919"
+           style="font-style:normal;font-weight:normal;-inkscape-font-specification:Bitstream Vera Sans"
+           y="161.17273"
+           x="459.12012"
+           sodipodi:role="line"> •degenerate case of A or B </tspan><tspan
+           id="tspan9933"
+           style="font-style:normal;font-weight:normal;-inkscape-font-specification:Bitstream Vera Sans"
+           y="176.17273"
+           x="459.12012"
+           sodipodi:role="line"> • software engineering</tspan><tspan
+           id="tspan9937"
+           style="font-style:normal;font-weight:normal;-inkscape-font-specification:Bitstream Vera Sans"
+           y="191.17273"
+           x="459.12012"
+           sodipodi:role="line">    process improvement</tspan><tspan
+           id="tspan9939"
+           style="font-style:normal;font-weight:normal;-inkscape-font-specification:Bitstream Vera Sans"
+           y="206.17273"
+           x="459.12012"
+           sodipodi:role="line">    not working as well as</tspan><tspan
+           id="tspan9941"
+           style="font-style:normal;font-weight:normal;-inkscape-font-specification:Bitstream Vera Sans"
+           y="221.17273"
+           x="459.12012"
+           sodipodi:role="line">    thought </tspan></text>
+      <text
+         id="text9943"
+         y="358.36218"
+         x="19"
+         style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif Italic"
+           y="358.36218"
+           x="19"
+           id="tspan9945"
+           sodipodi:role="line">Is there a difference in the post-CT&amp;E software defect rate</tspan><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif Italic"
+           id="tspan9949"
+           y="383.36218"
+           x="19"
+           sodipodi:role="line">measured in terms of the number of findings of Category I,</tspan><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif Italic"
+           id="tspan9959"
+           y="408.36218"
+           x="19"
+           sodipodi:role="line">II, III and IV between different versions of the same system</tspan><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif Italic"
+           id="tspan9951"
+           y="433.36218"
+           x="19"
+           sodipodi:role="line">in subsequent rounds of CT&amp;E by different DAAs?</tspan></text>
+      <text
+         id="text2661"
+         y="166.81288"
+         x="65.577469"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           style="font-size:24px;text-align:center;text-anchor:middle"
+           y="166.81288"
+           x="65.577469"
+           id="tspan2663"
+           sodipodi:role="line">Project</tspan><tspan
+           style="font-size:24px;text-align:center;text-anchor:middle"
+           id="tspan2665"
+           y="196.81288"
+           x="65.577469"
+           sodipodi:role="line">Records</tspan></text>
+    </g>
+  </g>
+</svg>
