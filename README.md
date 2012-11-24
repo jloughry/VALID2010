@@ -10,5 +10,5 @@ presented at the VALID 2010 conference in Nice, France.
 Build Notes
 -----------
 
-Do a `make allclean` before running commit in the GitHub application.
+Do a `make clean` before running commit in the GitHub application.
 
