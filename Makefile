@@ -55,4 +55,3 @@ allclean: clean
 	rm -f $(pdf_file) *.bbl
 
 include common.mk
-
