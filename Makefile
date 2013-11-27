@@ -13,7 +13,7 @@ graphics = simple-CDS.pdf complex-CDS.pdf R-prime-context-plus-N-prime.pdf thesi
 temporary_files = *.log *.aux *.out *.idx *.ilg *.blg *.bbl *.nav \
 	*.snm *.ind *.lof *.lot *.toc .pdf *.dvi
 
-all: $(pdf_file)
+all:: $(pdf_file)
 
 $(bibtex_file): $(bibtex_source)
 	cp $(bibtex_source) $(bibtex_file)
@@ -45,11 +45,10 @@ $(pdf_file): $(source) Makefile $(bibtex_file) $(graphics)
 vi:
 	vi $(source)
 
-spell:
+spell::
 	aspell --lang=EN_GB -t check $(source)
-	aspell --lang=en_GB check $(documentation)
 
-clean:
+clean::
 	rm -f $(temporary_files) $(documentation).bak
 
 allclean: clean
