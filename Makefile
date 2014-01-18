@@ -27,6 +27,7 @@ thesis-question.pdf: thesis-question.svg
 
 $(pdf_file): $(source) Makefile $(bibtex_file) $(graphics)
 	@echo $$(($$(cat $(counter_file)) + 1)) > $(counter_file)
+	make $(bibtex_file)
 	$(latex_cmd) $(source)
 	bibtex $(target)
 	if (grep "Warning" $(target).blg > /dev/null ) then false ; fi
